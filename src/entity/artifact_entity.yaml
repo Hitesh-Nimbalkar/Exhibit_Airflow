@@ -1,0 +1,12 @@
+data_ingestion_artifact:
+  test_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_ingestion\raw_data\ingested_Data\Test\data.csv
+  train_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_ingestion\raw_data\ingested_Data\Train\data.csv
+data_transformation_artifact:
+  feature_engineering_object_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_transformation\preprocessed\fea_eng.pkl
+  test_target_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_transformation\transformed_data\test\test_target.npz
+  train_target_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_transformation\transformed_data\train\train_target.npz
+  transformed_test_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_transformation\transformed_data\test\test.npz
+  transformed_train_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\data_transformation\transformed_data\train\train.npz
+model_trainer_artifact:
+  model_artifact_report: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\model_training\report.yaml
+  trained_model_file_path: C:\Users\Hitesh\Desktop\Project\Exhibit_art\artifact\model_training\model.pkl

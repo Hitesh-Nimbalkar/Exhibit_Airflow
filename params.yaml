@@ -1,0 +1,8 @@
+Experiment: Experiment_01
+Model_name: XGBoost_Regression
+Parameters:
+  learning_rate: '0.08177360164728663'
+  max_depth: '3'
+  n_estimators: '441'
+R2_score: '0.7999541732029266'
+Run_name: run_id
